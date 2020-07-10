@@ -1,4 +1,6 @@
 ### Villanos
 
-Dr. frio
-Gatubela
+* Dr. frio
+* Gatubela
+* Dr. Doom
+* Red Skull
