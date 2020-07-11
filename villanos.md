@@ -4,3 +4,4 @@
 * Gatubela
 * Dr. Doom
 * Red Skull
+* Capital America
